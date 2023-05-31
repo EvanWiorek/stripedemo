@@ -10,6 +10,8 @@
   },
   "dependencies": {
     "@stripe/stripe-js": "^1.54.0",
+    "axios": "^1.4.0",
+    "micro": "^10.0.1",
     "next": "13.4.4",
     "react": "18.2.0",
     "react-dom": "18.2.0",
